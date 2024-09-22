@@ -1,0 +1,22 @@
+
+{
+    "name": "Mr Hasan Omran",
+    "short_name": "Mr-Hasan",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "هذا تطبيق لتعلم نصوص اللغة العربية بحيث عندما يسأل طالب سؤال معين يتم الاجابة علية نصيا وصوتيا",
+    "icons": [
+      {
+        "src": "/static/icon_2.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/static/icon_1.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
