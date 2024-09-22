@@ -1,0 +1,11 @@
+flask
+gunicorn
+fuzzywuzzy
+gtts
+
+Flask==2.0.3
+fuzzywuzzy==0.18.0
+gtts==2.2.3
+Werkzeug==2.0.3
+
+
